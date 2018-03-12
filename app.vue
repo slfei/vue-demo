@@ -11,7 +11,7 @@
 	export default {
 		data(){
 			return {
-				'name':"vue hello demo "
+				'name':"vue hello shop "
 			}
 		}
 	}
